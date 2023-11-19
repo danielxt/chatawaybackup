@@ -1,0 +1,5 @@
+langchain
+openai
+google-search-results
+googlemaps
+python-dotenv
